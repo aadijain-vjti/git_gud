@@ -44,4 +44,4 @@ If you've been banging your head against a puzzle in the `arena` for 20 minutes:
 
 **Summary:** Learn Python, open some PRs, help your peers, make mistakes, laugh at the bugs, and have a good time. Now go forth and git gud! 💻✨
 
-stay chill , lower your cortisol and make an attempt to learn all the time . do not give up
+stay chill , lower your cortisol and make an attempt to learn all the time . do not give ups
